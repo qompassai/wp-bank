@@ -6,7 +6,8 @@
 
 <h3> Qompass AI Wallpapers </h3>
 
-![Repository Views](https://komarev.com/ghpvc/?username=qompassai-wp-bank)  
+![Repository Views](https://komarev.com/ghpvc/?username=qompassai-wp-bank) 
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/wp-bank/total?style=flat-square)
 
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
   <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
